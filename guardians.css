@@ -4,15 +4,18 @@ body {
 
 #container {
   min-height:0px;
+  background-image:linear-gradient(90deg, grey, lightgrey, grey, lightgrey, grey, lightgrey, grey, lightgrey)
 }
 
 header {
   background-color:#ED1D24;
   text-align:center;
   font-family: 'Chakra Petch', sans-serif;
-  color:white;
-  letter-spacing:-8px;
-  font-size:130px;
+  background: -webkit-linear-gradient(yellow, gold, black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing:-3px;
+  font-size:60px;
   padding:-35px;
   border:4px solid black;
 }
