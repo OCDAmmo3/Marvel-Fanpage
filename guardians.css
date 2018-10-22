@@ -1,10 +1,10 @@
 body {
-  background-image:linear-gradient(90deg, dodgerblue, lightgrey)
+  background-image:linear-gradient(90deg, grey, #ce9c5f, grey, #8c7252, grey, #892d32, grey, #27961f, grey, #a04349, grey)
 }
 
 #container {
   min-height:0px;
-  background-image:linear-gradient(90deg, grey, lightgrey, grey, lightgrey, grey, lightgrey, grey, lightgrey)
+  background-color:#892d32;
 }
 
 header {

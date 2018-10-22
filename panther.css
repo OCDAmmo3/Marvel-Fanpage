@@ -1,20 +1,21 @@
 body {
-  background-image:linear-gradient(90deg, dodgerblue, lightgrey)
+  background-image:linear-gradient(90deg, #664EAE, #0C0B13)
 }
 
 #container {
   min-height:0px;
+  background-color:#6496af;
 }
 
 header {
   background-color:#ED1D24;
   text-align:center;
   font-family: 'Josefin Sans', sans-serif;
-  background: -webkit-linear-gradient(#0C0B13, #664EAE);
- -webkit-background-clip: text;
- -webkit-text-fill-color: transparent;
-  letter-spacing:-10px;
-  font-size:100px;
+  background: -webkit-linear-gradient(#664EAE, #664EAE,#0C0B13);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing:-5px;
+  font-size:90px;
   padding:-15px;
   padding-top:25px;
   border:4px solid black;

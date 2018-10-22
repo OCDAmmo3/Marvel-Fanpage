@@ -1,5 +1,5 @@
 body {
-  background-image:linear-gradient(90deg, dodgerblue, lightgrey)
+  background-image:linear-gradient(90deg, #175091, #a7c4e5, #a7c4e5, #a7c4e5, #175091);
 }
 
 #container {
@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color:#ED1D24;
+  background-image:linear-gradient(90deg, #d8be3a, #fffd91, #d8be3a);
   text-align:center;
   font-family: 'Cinzel Decorative', cursive;
   color:white;
